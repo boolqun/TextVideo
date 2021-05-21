@@ -1,0 +1,20 @@
+﻿[00:01.00]ABC字母歌
+[00:06.00]A B C D E F G
+[00:11.00]H I J K L M N
+[00:15.10]O P Q
+[00:17.00]R S T
+[00:19.00]U V W
+[00:21.00]X Y Z
+[00:22.00]X Y Z
+[00:25.28]Now you see
+[00:27.00]I can say my ABC
+[00:29.29]A B C D E F G
+[00:34.00]H I J K L M N
+[00:38.17]O P Q
+[00:40.39]R S T
+[00:42.30]U V W X Y Z
+[00:46.28]Now you see
+[00:50.00]I can say my ABC
+[00:53.00]X Y Z
+[00:56.28]Now you see
+[00:57.00]I can say my ABC
